@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 shvquu
+Copyright (c) 2026 VoxelLabs
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,43 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------------------------
+
+THIRD-PARTY NOTICES
+
+This software is a Fabric mod for Minecraft and makes use of the following
+third-party libraries and frameworks:
+
+  Fabric Loader & Fabric API
+  Copyright (c) FabricMC contributors
+  Licensed under the Apache License 2.0
+  https://github.com/FabricMC/fabric
+
+  Minecraft
+  Copyright (c) Mojang Studios / Microsoft Corporation
+  This mod is not affiliated with or endorsed by Mojang or Microsoft.
+  Use of Minecraft is subject to the Minecraft End User License Agreement:
+  https://www.minecraft.net/eula
+
+  discord-game-sdk4j
+  Copyright (c) JnCrMx
+  Licensed under the MIT License
+  https://github.com/JnCrMx/discord-game-sdk4j
+
+  GSON
+  Copyright (c) Google LLC
+  Licensed under the Apache License 2.0
+  https://github.com/google/gson
+
+-------------------------------------------------------------------------------
+
+DISCLAIMER
+
+VoxelClient is an independent open-source project developed by VoxelLabs.
+It is not affiliated with, endorsed by, or connected to Mojang Studios,
+Microsoft Corporation, or the official Minecraft brand in any way.
+
+Use of this mod is at your own risk. VoxelLabs is not responsible for
+any bans, data loss, or damage resulting from the use of this software
+on any Minecraft server or service.
